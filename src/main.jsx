@@ -43,7 +43,7 @@ function App() {
         <div className="hero-glow glow-one"/><div className="hero-glow glow-two"/>
         <div className="site-wrap relative grid min-h-[650px] items-center gap-10 py-16 lg:grid-cols-[1.02fr_.98fr] lg:py-20">
           <div className="relative z-10 max-w-2xl">
-            <div className="eyebrow"><span className="eyebrow-dot"/> COMPASSIONATE CARE. CONFIDENT YOU.</div>
+            <div className="eyebrow"><span className="eyebrow-dot"/> COMPASSIONATE CARE. CONFIDENT YOU HAmid .</div>
             <h1 className="mt-7 font-display text-[clamp(2.8rem,5.5vw,5.1rem)] font-extrabold leading-[1.07] tracking-[-.055em] text-navy">Your health.<br/><span className="text-gradient">Our priority.</span></h1>
             <p className="mt-7 max-w-lg text-base leading-8 text-slate-600 sm:text-lg">Feel cared for at every step. Discover approachable, patient-centred medical, dental and skin care for you and your family.</p>
             <div className="mt-9 flex flex-wrap gap-3"><a href="#appointment" className="primary-btn">Book an appointment <ArrowUpRight size={17}/></a><a href="#services" className="secondary-btn">Explore our services <ArrowRight size={16}/></a></div>
